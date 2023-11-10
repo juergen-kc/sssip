@@ -1,0 +1,40 @@
+{
+    "whitelisted_apps": [
+      {
+        "id": "YOUR_APP_ID",
+        "compatible_os": ["Windows"]
+      },
+      {
+        "id": "YOUR_APP_ID2",
+        "compatible_os": ["Mac OS X"]
+      },
+      {
+        "id": "YOUR_APP_ID3",
+        "compatible_os": ["Windows"]
+      },
+      {
+        "id": "YOUR_APP_ID4",
+        "compatible_os": ["Windows"]
+      },
+      {
+        "id": "YOUR_APP_ID4",
+        "compatible_os": ["Mac OS X"]
+      },
+      {
+        "id": "YOUR_APP_ID5",
+        "compatible_os": ["Android"]
+      },
+      {
+        "id": "YOUR_APP_ID6",
+        "compatible_os": ["Mac OS X"]
+      },
+      {
+        "id": "YOUR_APP_ID7",
+        "compatible_os": ["Mac OS X"]
+      },
+      {
+        "id": "YOUR_APP_ID8",
+        "compatible_os": ["Mac OS X"]
+      }
+    ]
+  }
